@@ -59,7 +59,7 @@ Si las verificaciones no aparecen o si las verificaciones están atascadas en pr
   Agrega un enlace para obtener soporte, página de estado de GitHub, código de conducta, enlace de licencia.
 -->
 
----
+
 
 Obtén ayuda: [Publica en nuestro foro de discusión](https://github.com/orgs/skills/discussions/categories/test-with-actions) &bull; [Revisa la página de estado de GitHub](https://www.githubstatus.com/)
 
